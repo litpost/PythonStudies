@@ -3,7 +3,7 @@ Baigiamasis projektas
 
 Darbo autorius: Giedrius Leskevičius.
 
-Projekto tema: Futbolo žaidėjų finansinė analizė.
+Projekto tema: Futbolo žaidėjų atlygio analizė.
 
 Projekto tikslas: Išanalizuoti, kas įtakoja žaidėjo atlygį.
 
