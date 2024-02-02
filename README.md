@@ -54,14 +54,15 @@ Funkcija: zaideju_ugis()
 
 Žaidėjų įgūdžiai pagal ūgio grupes
 Funkcija: zaideju_ugis_igudziai()
-![zaideju_ugis](https://github.com/litpost/PythonStudies/assets/19422665/52fff719-b38d-4a27-8dde-2f58eab41e41)
+![zaideju_igudziai_ugio_grupe](https://github.com/litpost/PythonStudies/assets/19422665/8bf913a1-ee3f-46e3-a380-e29efde5b181)
+
 
 ## Išvados
 Pirmas grafikas "Populiarumas" atspindi visuomenės nuomonę, kuri ne visada sutampa su profesionalų nuomone. Matome, kad pirmoje vietoje Erling Haaland, o žinomas žaidėjas Messi tik trečioje, todėl ši informacija neparodo tikrųjų žaidėjo kompetencijų.
 
 Kainos ir atlygio grafike matome, kad su metais žaidėjai netenka atlygio bei už jį klubai pasiruošę mokėti mažiau. Tačiau yra išimčių, kas matoma ties 33 ir 34 metų amžiumi. Šiame amžiuje šiuo atveju turime keleta žaidėjų su gerais įgūdžiais. Tą galime stebėti trečiame grafike. Jie aukštai vertinami ir jiems mokamas geras atlygis.
 
-Paskutiniai du grafikai pateikia žaidėjų ūgį. Čia galime daryti išvadą, kad nors dauguma žaidėjų yra aukštaūgiai, daugiausia įgūdžių turi vidutinio ūgio žaidėjai ().
+Paskutiniai du grafikai pateikia žaidėjų ūgį. Čia galime daryti išvadą, kad nors dauguma žaidėjų yra aukštaūgiai, daugiausia įgūdžių turi vidutinio ūgio žaidėjai nuo 170 cm iki 179 cm.
 
 
 
