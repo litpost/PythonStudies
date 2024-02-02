@@ -5,7 +5,7 @@ Darbo autorius: Giedrius Leskevičius.
 
 Projekto tema: Futbolo žaidėjų finansinė analizė.
 
-Projekto tema: Žaidėjo savybių įtaka jo kainai ir atlygiui.
+Projekto tikslas: Atrasti, kas įtakoja žaidėjo atlygį.
 
 Panaudotos bibliotekos: requests, pandas, matplotlib, silenium, BeautifulSoup
 
